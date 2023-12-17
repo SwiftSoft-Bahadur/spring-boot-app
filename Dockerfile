@@ -1,6 +1,6 @@
 FROM openjdk:11
 
-MAINTAINER Bahadur Khan
+MAINTAINER Bahadur Khan info.bahadur6350@gmail.com
 
 COPY target/spring-boot-docker-app.jar  /usr/app/
 
